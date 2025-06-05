@@ -1,4 +1,4 @@
-# rise-interview-question
+# Solution
 
 Explanation of the Issue
 The issue was caused by two problems:
